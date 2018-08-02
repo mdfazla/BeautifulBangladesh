@@ -1,4 +1,5 @@
-  "images": [
+{  
+"images": [
     {
       "id": 1,
       "name": "Bristi",
@@ -124,3 +125,4 @@
       "url": "https://raw.githubusercontent.com/mdfazla/BeautifulBangladesh/master/winter.jpg"
     }
   ]
+}
