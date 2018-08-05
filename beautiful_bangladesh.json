@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Gif",
-      "url": "https://raw.githubusercontent.com/mdfazla/BeautifulBangladesh/master/beautiful_water_flowing.gif"
+      "url": "https://raw.githubusercontent.com/mdfazla/BeautifulBangladesh/master/tiger.jpg"
      
     },
     {
@@ -133,11 +133,6 @@
     {
       "id": 24,
       "name": "Tiger",
-      "url": "https://raw.githubusercontent.com/mdfazla/BeautifulBangladesh/master/tiger.jpg"
-    },
-    {
-      "id": 25,
-      "name": "Winter",
       "url": "https://raw.githubusercontent.com/mdfazla/BeautifulBangladesh/master/tiger_big.jpg"
     }
   ]
